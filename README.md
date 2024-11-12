@@ -16,9 +16,9 @@
 ## Tools Used
 Data Visualization: Power BI
 ## Insights and Outcomes
-Attrition Patterns: Insightful trends in attrition by gender and age group to understand workforce shifts.
-Satisfaction Rates: Comparison of satisfaction levels across job roles and education fields to highlight high- and low-satisfaction groups.
-Employee Demographics: Marital status and gender demographics of current employees to support diversity initiatives.
+- Attrition Patterns: Insightful trends in attrition by gender and age group to understand workforce shifts.
+- Satisfaction Rates: Comparison of satisfaction levels across job roles and education fields to highlight high- and low-satisfaction groups.
+- Employee Demographics: Marital status and gender demographics of current employees to support diversity initiatives.
 
 
 
