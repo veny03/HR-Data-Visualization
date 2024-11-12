@@ -1,9 +1,10 @@
-# HR-Data-Visualization
-This project visualizes key HR metrics using Power BI, focusing on attrition rates, employee demographics, and job satisfaction.
+# HR Data Visualization Project
 
 
-HR Data Visualization Project
-Overview
+![image](https://github.com/user-attachments/assets/c95f4c22-292a-430e-9bd6-399480563206)
+![image](https://github.com/user-attachments/assets/ddcb1d1f-7cfa-4fa4-9e3b-83c18543703d)
+
+## Overview
 This project is a comprehensive Power BI visualization of HR data, focused on key workforce insights such as attrition rates, employee demographics, job satisfaction, and other vital HR metrics. This analysis helps HR teams identify patterns in attrition and satisfaction, enabling targeted strategies for workforce retention and satisfaction.
 
 Key Visualizations
@@ -26,5 +27,3 @@ Employee Demographics: Marital status and gender demographics of current employe
 
 
 
-![image](https://github.com/user-attachments/assets/c95f4c22-292a-430e-9bd6-399480563206)
-![image](https://github.com/user-attachments/assets/ddcb1d1f-7cfa-4fa4-9e3b-83c18543703d)
